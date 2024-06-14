@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">ImVast</h1>
+<h1 align="center">ImZeta</h1>
 <a href="https://github.com/imvast"></a>
 
 <p align="center">
@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs"/>
 </p>
 
-https://t.me/skiddos
+https://discord.gg/zetaboost
 
 <br>
 
