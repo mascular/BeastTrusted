@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
-<h1 align="center">ImZeta</h1>
-<a href="https://github.com/BeastTrusted"></a>
+<h1 align="center">Mascular</h1>
+<a href="https://github.com/mascular"></a>
 
 <p align="center">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=mascular&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
